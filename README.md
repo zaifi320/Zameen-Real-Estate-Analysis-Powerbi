@@ -268,6 +268,7 @@ Zameen-Real-Estate-Analysis-Powerbi/
 │   └── Zameen Dashboard-page-3.png
 │
 ├── Zameen.com Dashboard DAX Measures.xlsx
+├── Zameen.com Dashboard.pdf
 ├── .gitattributes
 └── README.md
 ```
